@@ -1,3 +1,12 @@
+##
+## Create a text visualisation module,
+## use rhumato abstract, because ... well ...
+##
+## TODO:
+## -> Tokenization & basic preprocessing
+## -> Conversion to TF-IDF vector
+## -> Plot in t-sne space
+##
 
 
 
